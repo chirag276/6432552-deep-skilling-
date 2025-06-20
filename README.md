@@ -1,3 +1,4 @@
+Exercise 2: E-commerce Platform Search Function
 
 This project is part of **Exercise 2** from Cognizant’s DeepSkill assignment. It demonstrates how to use **Binary Search** to search for product names in an e-commerce application.
 
@@ -19,17 +20,6 @@ Create a command-line program that:
 - Clean Java structure
 - Terminal input/output
 - Prepared for GitHub demonstration
-
----
-
-## 📁 Folder Structure
-
-EcommerceSearchDSA/
-├── src/
-│ └── EcommerceSearch.java
-└── README.md
-
----
 
 ## 🛠️ How to Run the Program
 
