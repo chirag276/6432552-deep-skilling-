@@ -1,0 +1,23 @@
+Forecasts next month's revenue using the moving average of past months' revenue data.
+
+▶️ File:
+- FinancialForecast.java
+
+💡 Key Concepts:
+- Array for storing monthly revenue
+- Sliding Window for Moving Average
+- Forecasting using recent trends
+
+💻 Run Commands:
+javac FinancialForecast.java  
+java FinancialForecast
+
+🔍 Sample Output:
+📊 Forecasted revenue for next month: ₹14666.67
+
+📚 Theory:
+Moving average is a simple algorithm used to smooth time series data and forecast future values.
+It’s useful in financial forecasting when patterns and trends matter.
+The sliding window sums recent values and averages them.
+This reduces noise and provides a better prediction than relying on a single value.
+It’s one of the basic but effective forecasting tools in finance and business analytics.
